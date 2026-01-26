@@ -1,7 +1,7 @@
 ###
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=60&color=8A2BE2&center=true&vCenter=true&width=800&repeat=true&pause=1000&lines=SURYA+TEJA;SURYA+TEJA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=60&color=D29922&center=true&vCenter=true&width=800&repeat=true&pause=1000&lines=DNV+Likhitha;DNV+Likhitha" />
 </p>
 
 <p align="center">
@@ -44,13 +44,13 @@
 ## Reach Me
 
 <div align="left">
-  <a href="https://discord.com/users/surya_62952135" target="_blank">
+  <a href="https://discord.com/users/dnvlikhitha_81387" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
   </a>
-  <a href="mailto:suryateja566023145@gmail.com" target="_blank">
+  <a href="mailto:ch.dnvlikhitha123@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/surya-teja-batchu-aab11227a" target="_blank">
+  <a href="https://www.linkedin.com/in/dnv-likhitha-ba12b8289/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
 </div>
