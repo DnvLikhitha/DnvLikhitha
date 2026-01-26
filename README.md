@@ -1,6 +1,8 @@
 ###
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=700&size=31&duration=3000&pause=2000&color=D29922&center=true&width=435&lines=DNV+Likhitha" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=40&color=FF1493&center=true&vCenter=true&width=900&repeat=true&pause=1000&lines=B.Tech+in+CSE+(AI+ML);B.Tech+in+CSE+(AI+ML)" />
