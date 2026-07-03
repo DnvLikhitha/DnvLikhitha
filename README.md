@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=FF6EC7,7F5AF0,2CB67D&center=true&vCenter=true&multiline=true&width=650&height=90&lines=heyyy+%F0%9F%91%8B+it's+likhitha;probably+debugging+something+rn;AI%2FML+%2B+full-stack+%2B+chaotic+good+energy" alt="typing banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:7F5AF0,100:2CB67D&height=150&section=header&text=DNV%20Likhitha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF6EC7,7F5AF0,2CB67D&center=true&vCenter=true&multiline=true&width=650&height=80&lines=heyyy+%F0%9F%91%8B+probably+debugging+something+rn;AI%2FML+%2B+full-stack+%2B+chaotic+good+energy" alt="typing banner" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DnvLikhitha&color=7F5AF0&style=for-the-badge&label=VISITORS)
 
@@ -32,43 +34,49 @@
 
 </div>
 
-<div align="center">
-
-**⚡ the basics**
-<br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<br/><br/>
-
-**🌐 pretty things (frontend)**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-<br/><br/>
-
-**⚙️ under the hood (backend + tools)**
-<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
-<br/><br/>
-
-**🗄️ where the data lives**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL_(Supabase)-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-
-<br/><br/>
-
-**🧠 the brainy stuff (AI/ML)**
-<br/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-14A44D?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-6C3EF4?style=flat-square"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-006D77?style=flat-square"/> <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Chroma-6B4F9E?style=flat-square"/>
-
-<br/><br/>
-
-**📚 the fundamentals never left**
-<br/>
-<img src="https://img.shields.io/badge/DSA-FF6EC7?style=flat-square"/> <img src="https://img.shields.io/badge/OOPS-FF6EC7?style=flat-square"/> <img src="https://img.shields.io/badge/DBMS-FF6EC7?style=flat-square"/> <img src="https://img.shields.io/badge/OS-FF6EC7?style=flat-square"/> <img src="https://img.shields.io/badge/Computer_Networks-FF6EC7?style=flat-square"/>
-
-</div>
+<table align="center">
+<tr>
+<td width="230" valign="top"><b>⚡ the basics</b></td>
+<td>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="230" valign="top"><b>🌐 pretty things (frontend)</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="230" valign="top"><b>⚙️ under the hood</b><br/><sub>backend + tools</sub></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="230" valign="top"><b>🗄️ where the data lives</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL_(Supabase)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="230" valign="top"><b>🧠 the brainy stuff</b><br/><sub>AI/ML</sub></td>
+<td>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-14A44D?style=for-the-badge"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-6C3EF4?style=for-the-badge"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/RAG-006D77?style=for-the-badge"/> <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Chroma-6B4F9E?style=for-the-badge"/>
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="230" valign="top"><b>📚 the fundamentals</b><br/><sub>never left</sub></td>
+<td>
+<img src="https://img.shields.io/badge/DSA-FF6EC7?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOPS-FF6EC7?style=for-the-badge"/> <img src="https://img.shields.io/badge/DBMS-FF6EC7?style=for-the-badge"/> <img src="https://img.shields.io/badge/OS-FF6EC7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer_Networks-FF6EC7?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,12 +103,18 @@
 
 </div>
 
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryatejabatchu08/suryatejabatchu08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryatejabatchu08/suryatejabatchu08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryatejabatchu08/suryatejabatchu08/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DnvLikhitha/DnvLikhitha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DnvLikhitha/DnvLikhitha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DnvLikhitha/DnvLikhitha/output/pacman-contribution-graph.svg">
 </picture>
+
+</div>
 
 <div align="center">
 <sub>ok bye, go build something ✨</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2CB67D,50:7F5AF0,100:FF6EC7&height=100&section=footer" width="100%"/>
