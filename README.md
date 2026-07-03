@@ -95,11 +95,11 @@
 
 </div>
 
-<div align="center">
-
-![pacman contribution graph](https://raw.githubusercontent.com/DnvLikhitha/DnvLikhitha/output/dist/pacman-contribution-graph.svg)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryatejabatchu08/suryatejabatchu08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryatejabatchu08/suryatejabatchu08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/suryatejabatchu08/suryatejabatchu08/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 <sub>ok bye, go build something ✨</sub>
