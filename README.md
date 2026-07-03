@@ -95,10 +95,11 @@
 
 </div>
 
-<!--START_SECTION:activity-->
-<!-- your existing snake / contribution-graph animation goes here, exactly as it was — untouched -->
+<div align="center">
 
-<!--END_SECTION:activity-->
+![pacman contribution graph](https://raw.githubusercontent.com/DnvLikhitha/DnvLikhitha/output/dist/pacman-contribution-graph.svg)
+
+</div>
 
 <div align="center">
 <sub>ok bye, go build something ✨</sub>
